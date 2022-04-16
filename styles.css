@@ -1,0 +1,24 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.card {
+	display: inline-block;
+	width: 480px;
+	vertical-align: top;
+}
+
+.border-secondary {
+	vertical-align: bottom;
+}
+
+.form-inline {
+	z-index: 9999;
+}
+
+.btn-secondary a {
+	color: white;
+}
+
+img {
+	max-width: 360px;
+}
